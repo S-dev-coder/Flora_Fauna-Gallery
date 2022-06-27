@@ -1,2 +1,2 @@
 # Image-Gallery
-This contain Wildlife images.
+This project contain wonderful images of Flaura and Fauna.
